@@ -1,0 +1,10 @@
+.idea/
+shell.sh
+out
+logs
+*.class
+*.log
+*.lock
+build/
+run/
+*.bin

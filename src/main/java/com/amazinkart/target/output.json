@@ -1,0 +1,150 @@
+[
+  {
+    "category": "electronics",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "XTP mobile",
+    "inventory": 10,
+    "price": 2400.0,
+    "rating": 3.8,
+    "arrival": null,
+    "discount": {
+      "amount": 100.0,
+      "discountTag": "get Rs 100 off"
+    }
+  },
+  {
+    "category": "electronics",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "Maximize mobile",
+    "inventory": 5,
+    "price": 4140.0,
+    "rating": 1.8,
+    "arrival": null,
+    "discount": {
+      "amount": 360.0,
+      "discountTag": "get 8% off"
+    }
+  },
+  {
+    "category": "clothing",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "Jeet white shoes",
+    "inventory": 50,
+    "price": 1764.0,
+    "rating": 4.8,
+    "arrival": null,
+    "discount": {
+      "amount": 36.0,
+      "discountTag": "get default 2% off"
+    }
+  },
+  {
+    "category": "grooming",
+    "currency": "INR",
+    "origin": "Europe",
+    "product": "Pearly tooth brush",
+    "inventory": 10,
+    "price": 144.0,
+    "rating": 2.0,
+    "arrival": null,
+    "discount": {
+      "amount": 6.0,
+      "discountTag": "get 4% off"
+    }
+  },
+  {
+    "category": "accessories",
+    "currency": "INR",
+    "origin": "America",
+    "product": "BOA power bank",
+    "inventory": 10,
+    "price": 2023.08,
+    "rating": 0.0,
+    "arrival": "NEW",
+    "discount": {
+      "amount": 175.92,
+      "discountTag": "get 8% off"
+    }
+  },
+  {
+    "category": "toys",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "remote control car",
+    "inventory": 10,
+    "price": 4017.79,
+    "rating": 2.8,
+    "arrival": null,
+    "discount": {
+      "amount": 82.0,
+      "discountTag": "get default 2% off"
+    }
+  },
+  {
+    "category": "books",
+    "currency": "INR",
+    "origin": "America",
+    "product": "Zen and The art of motorcycle maintenance",
+    "inventory": 5,
+    "price": 3468.85,
+    "rating": 4.8,
+    "arrival": null,
+    "discount": {
+      "amount": 70.79,
+      "discountTag": "get default 2% off"
+    }
+  },
+  {
+    "category": "apparels",
+    "currency": "INR",
+    "origin": "Africa",
+    "product": "hawaiian shirts",
+    "inventory": 10,
+    "price": 1871.08,
+    "rating": 4.2,
+    "arrival": null,
+    "discount": {
+      "amount": 140.83,
+      "discountTag": "get 7% off"
+    }
+  },
+  {
+    "category": "home",
+    "currency": "INR",
+    "origin": "Africa",
+    "product": "water bottle",
+    "inventory": 30,
+    "price": 455.7,
+    "rating": 4.2,
+    "arrival": null,
+    "discount": {
+      "amount": 34.3,
+      "discountTag": "get 7% off"
+    }
+  },
+  {
+    "category": "accessories",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "iron man mousepad",
+    "inventory": 10,
+    "price": 190.0,
+    "rating": 3.2,
+    "arrival": null,
+    "discount": null
+  },
+  {
+    "category": "furnishing",
+    "currency": "INR",
+    "origin": "Asia",
+    "product": "lunch box",
+    "inventory": 45,
+    "price": 190.0,
+    "rating": 3.2,
+    "arrival": null,
+    "discount": null
+  }
+]
