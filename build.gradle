@@ -9,6 +9,7 @@ version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 mainClassName= 'com.amazinkart.MainApp'
+project.buildDir = 'target/'
 
 repositories {
     mavenCentral()
@@ -23,4 +24,11 @@ dependencies {
     compile "com.squareup.retrofit2:converter-jackson:2.0.0-beta4"
     compile "com.google.inject:guice:4.1.0"
     compile "org.projectlombok:lombok:1.16.10"
+}
+
+jar {
+    manifest {
+        attributes(
+                "Main-Class": mainClassName)
+    }
 }

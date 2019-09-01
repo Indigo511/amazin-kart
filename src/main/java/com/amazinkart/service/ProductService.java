@@ -46,7 +46,7 @@ public class ProductService {
       return product;
     }).collect(Collectors.toList());
 
-    try (FileWriter file = new FileWriter("src/main/java/com/amazinkart/target/output.json")) {
+    try (FileWriter file = new FileWriter("target/output.json")) {
       JsonNode json = new ObjectMapper().convertValue(productDetails, JsonNode.class);
       file.write(json.toString());
     }

@@ -7,4 +7,5 @@ logs
 *.lock
 build/
 run/
+target/
 *.bin
